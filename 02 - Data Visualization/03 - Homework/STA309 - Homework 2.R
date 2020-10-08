@@ -1,3 +1,5 @@
+##GRADE = 70%
+
 library(tidyverse)
 library(mosaic)
 library(ggplot2)
